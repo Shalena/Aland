@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		41C2BF0FD0B426EB7AAA5806 /* Pods_Aland.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 977DEACED2D2A181A55A3737 /* Pods_Aland.framework */; };
 		811E5A432105B4DB00BF4E1F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 811E5A422105B4DB00BF4E1F /* AppDelegate.swift */; };
 		811E5A452105B4DB00BF4E1F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 811E5A442105B4DB00BF4E1F /* ViewController.swift */; };
 		811E5A482105B4DB00BF4E1F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 811E5A462105B4DB00BF4E1F /* Main.storyboard */; };
@@ -14,6 +15,27 @@
 		811E5A4D2105B4DC00BF4E1F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 811E5A4B2105B4DC00BF4E1F /* LaunchScreen.storyboard */; };
 		811E5A582105B4DC00BF4E1F /* AlandTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 811E5A572105B4DC00BF4E1F /* AlandTests.swift */; };
 		811E5A632105B4DC00BF4E1F /* AlandUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 811E5A622105B4DC00BF4E1F /* AlandUITests.swift */; };
+		811E5A712105BF7300BF4E1F /* Visit-Aland-21.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 811E5A702105BF7300BF4E1F /* Visit-Aland-21.jpg */; };
+		814B17682105CA26004BD226 /* cristiano-ronaldo4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 814B17672105CA26004BD226 /* cristiano-ronaldo4.jpg */; };
+		814B176A2105D6F7004BD226 /* 10-Strongest-Dabs-hero.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 814B17692105D6F7004BD226 /* 10-Strongest-Dabs-hero.jpg */; };
+		814B176D2105EA05004BD226 /* 0dc72fa6cd9a3536f6042b0b3a46d536--phone-backgrounds-tumblr-wallpaper-iphone.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 814B176C2105EA05004BD226 /* 0dc72fa6cd9a3536f6042b0b3a46d536--phone-backgrounds-tumblr-wallpaper-iphone.jpg */; };
+		814B176F2105ED69004BD226 /* depositphotos_14367695-stock-photo-violet-blue-butterfly-isolated-on.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 814B176E2105ED69004BD226 /* depositphotos_14367695-stock-photo-violet-blue-butterfly-isolated-on.jpg */; };
+		814B17712105F43D004BD226 /* AliceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 814B17702105F43D004BD226 /* AliceViewController.swift */; };
+		814B177521070626004BD226 /* WilliamViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 814B177421070626004BD226 /* WilliamViewController.swift */; };
+		814B17772107091E004BD226 /* OlenaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 814B17762107091E004BD226 /* OlenaViewController.swift */; };
+		814B177921071851004BD226 /* BenjamiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 814B177821071851004BD226 /* BenjamiViewController.swift */; };
+		814B177B21071A40004BD226 /* arrow-151103__340.png in Resources */ = {isa = PBXBuildFile; fileRef = 814B177A21071A40004BD226 /* arrow-151103__340.png */; };
+		814B177D21071D1F004BD226 /* AlexanderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 814B177C21071D1F004BD226 /* AlexanderViewController.swift */; };
+		8198383821084EBE00D20CF4 /* giphy9.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8198383721084EBD00D20CF4 /* giphy9.gif */; };
+		8198383A21084F2D00D20CF4 /* MonsterLoginFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8198383921084F2D00D20CF4 /* MonsterLoginFile.swift */; };
+		8198383C210854FD00D20CF4 /* wenger14nov14-536368.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8198383B210854FC00D20CF4 /* wenger14nov14-536368.jpg */; };
+		8198383E210865ED00D20CF4 /* images-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 8198383D210865ED00D20CF4 /* images-2.png */; };
+		819838402108740A00D20CF4 /* FormViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8198383F2108740A00D20CF4 /* FormViewController.swift */; };
+		81983843210875B700D20CF4 /* FormModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81983842210875B700D20CF4 /* FormModel.swift */; };
+		81983845210879B500D20CF4 /* HelloViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81983844210879B500D20CF4 /* HelloViewController.swift */; };
+		819838472109C80B00D20CF4 /* ff40a667d68d2ab5d0b850eaa0664d82.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 819838462109C80B00D20CF4 /* ff40a667d68d2ab5d0b850eaa0664d82.jpg */; };
+		81983849210B1A4500D20CF4 /* 37394cfc2f3542cb59779d89c6ed75d4.png.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 81983848210B1A4500D20CF4 /* 37394cfc2f3542cb59779d89c6ed75d4.png.jpg */; };
+		8198384B210B202000D20CF4 /* QMOstte1Nn-10.png in Resources */ = {isa = PBXBuildFile; fileRef = 8198384A210B202000D20CF4 /* QMOstte1Nn-10.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +69,30 @@
 		811E5A5E2105B4DC00BF4E1F /* AlandUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AlandUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		811E5A622105B4DC00BF4E1F /* AlandUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlandUITests.swift; sourceTree = "<group>"; };
 		811E5A642105B4DC00BF4E1F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		811E5A702105BF7300BF4E1F /* Visit-Aland-21.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Visit-Aland-21.jpg"; sourceTree = "<group>"; };
+		814B17672105CA26004BD226 /* cristiano-ronaldo4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "cristiano-ronaldo4.jpg"; sourceTree = "<group>"; };
+		814B17692105D6F7004BD226 /* 10-Strongest-Dabs-hero.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "10-Strongest-Dabs-hero.jpg"; sourceTree = "<group>"; };
+		814B176C2105EA05004BD226 /* 0dc72fa6cd9a3536f6042b0b3a46d536--phone-backgrounds-tumblr-wallpaper-iphone.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "0dc72fa6cd9a3536f6042b0b3a46d536--phone-backgrounds-tumblr-wallpaper-iphone.jpg"; sourceTree = "<group>"; };
+		814B176E2105ED69004BD226 /* depositphotos_14367695-stock-photo-violet-blue-butterfly-isolated-on.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "depositphotos_14367695-stock-photo-violet-blue-butterfly-isolated-on.jpg"; sourceTree = "<group>"; };
+		814B17702105F43D004BD226 /* AliceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AliceViewController.swift; sourceTree = "<group>"; };
+		814B177421070626004BD226 /* WilliamViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WilliamViewController.swift; sourceTree = "<group>"; };
+		814B17762107091E004BD226 /* OlenaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OlenaViewController.swift; sourceTree = "<group>"; };
+		814B177821071851004BD226 /* BenjamiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BenjamiViewController.swift; sourceTree = "<group>"; };
+		814B177A21071A40004BD226 /* arrow-151103__340.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-151103__340.png"; sourceTree = "<group>"; };
+		814B177C21071D1F004BD226 /* AlexanderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlexanderViewController.swift; sourceTree = "<group>"; };
+		8198383721084EBD00D20CF4 /* giphy9.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = giphy9.gif; sourceTree = "<group>"; };
+		8198383921084F2D00D20CF4 /* MonsterLoginFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonsterLoginFile.swift; sourceTree = "<group>"; };
+		8198383B210854FC00D20CF4 /* wenger14nov14-536368.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "wenger14nov14-536368.jpg"; sourceTree = "<group>"; };
+		8198383D210865ED00D20CF4 /* images-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "images-2.png"; sourceTree = "<group>"; };
+		8198383F2108740A00D20CF4 /* FormViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormViewController.swift; sourceTree = "<group>"; };
+		81983842210875B700D20CF4 /* FormModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormModel.swift; sourceTree = "<group>"; };
+		81983844210879B500D20CF4 /* HelloViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloViewController.swift; sourceTree = "<group>"; };
+		819838462109C80B00D20CF4 /* ff40a667d68d2ab5d0b850eaa0664d82.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ff40a667d68d2ab5d0b850eaa0664d82.jpg; sourceTree = "<group>"; };
+		81983848210B1A4500D20CF4 /* 37394cfc2f3542cb59779d89c6ed75d4.png.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 37394cfc2f3542cb59779d89c6ed75d4.png.jpg; sourceTree = "<group>"; };
+		8198384A210B202000D20CF4 /* QMOstte1Nn-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "QMOstte1Nn-10.png"; sourceTree = "<group>"; };
+		977DEACED2D2A181A55A3737 /* Pods_Aland.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Aland.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AB19C4A7D51680BF9D7903B3 /* Pods-Aland.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Aland.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Aland/Pods-Aland.debug.xcconfig"; sourceTree = "<group>"; };
+		F5798E34A5D85AD386FE29B9 /* Pods-Aland.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Aland.release.xcconfig"; path = "Pods/Target Support Files/Pods-Aland/Pods-Aland.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +100,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41C2BF0FD0B426EB7AAA5806 /* Pods_Aland.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -74,6 +121,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0AAC7FA0CE7DE243F70E9285 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				977DEACED2D2A181A55A3737 /* Pods_Aland.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		5D809D7D71431091A4AC9642 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				AB19C4A7D51680BF9D7903B3 /* Pods-Aland.debug.xcconfig */,
+				F5798E34A5D85AD386FE29B9 /* Pods-Aland.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		811E5A362105B4DB00BF4E1F = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +145,8 @@
 				811E5A562105B4DC00BF4E1F /* AlandTests */,
 				811E5A612105B4DC00BF4E1F /* AlandUITests */,
 				811E5A402105B4DB00BF4E1F /* Products */,
+				5D809D7D71431091A4AC9642 /* Pods */,
+				0AAC7FA0CE7DE243F70E9285 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,6 +163,9 @@
 		811E5A412105B4DB00BF4E1F /* Aland */ = {
 			isa = PBXGroup;
 			children = (
+				81983841210875A000D20CF4 /* Models */,
+				814B1773210705FD004BD226 /* Controllers */,
+				814B176B2105E678004BD226 /* Pictures */,
 				811E5A422105B4DB00BF4E1F /* AppDelegate.swift */,
 				811E5A442105B4DB00BF4E1F /* ViewController.swift */,
 				811E5A462105B4DB00BF4E1F /* Main.storyboard */,
@@ -125,6 +194,48 @@
 			path = AlandUITests;
 			sourceTree = "<group>";
 		};
+		814B176B2105E678004BD226 /* Pictures */ = {
+			isa = PBXGroup;
+			children = (
+				8198383B210854FC00D20CF4 /* wenger14nov14-536368.jpg */,
+				811E5A702105BF7300BF4E1F /* Visit-Aland-21.jpg */,
+				8198384A210B202000D20CF4 /* QMOstte1Nn-10.png */,
+				819838462109C80B00D20CF4 /* ff40a667d68d2ab5d0b850eaa0664d82.jpg */,
+				8198383D210865ED00D20CF4 /* images-2.png */,
+				8198383721084EBD00D20CF4 /* giphy9.gif */,
+				81983848210B1A4500D20CF4 /* 37394cfc2f3542cb59779d89c6ed75d4.png.jpg */,
+				814B176E2105ED69004BD226 /* depositphotos_14367695-stock-photo-violet-blue-butterfly-isolated-on.jpg */,
+				814B176C2105EA05004BD226 /* 0dc72fa6cd9a3536f6042b0b3a46d536--phone-backgrounds-tumblr-wallpaper-iphone.jpg */,
+				814B17692105D6F7004BD226 /* 10-Strongest-Dabs-hero.jpg */,
+				814B17672105CA26004BD226 /* cristiano-ronaldo4.jpg */,
+				814B177A21071A40004BD226 /* arrow-151103__340.png */,
+			);
+			path = Pictures;
+			sourceTree = "<group>";
+		};
+		814B1773210705FD004BD226 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				814B177421070626004BD226 /* WilliamViewController.swift */,
+				814B17762107091E004BD226 /* OlenaViewController.swift */,
+				814B17702105F43D004BD226 /* AliceViewController.swift */,
+				814B177821071851004BD226 /* BenjamiViewController.swift */,
+				814B177C21071D1F004BD226 /* AlexanderViewController.swift */,
+				8198383921084F2D00D20CF4 /* MonsterLoginFile.swift */,
+				8198383F2108740A00D20CF4 /* FormViewController.swift */,
+				81983844210879B500D20CF4 /* HelloViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		81983841210875A000D20CF4 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				81983842210875B700D20CF4 /* FormModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,9 +243,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 811E5A672105B4DC00BF4E1F /* Build configuration list for PBXNativeTarget "Aland" */;
 			buildPhases = (
+				D3C46213772B615B1465BFF4 /* [CP] Check Pods Manifest.lock */,
 				811E5A3B2105B4DB00BF4E1F /* Sources */,
 				811E5A3C2105B4DB00BF4E1F /* Frameworks */,
 				811E5A3D2105B4DB00BF4E1F /* Resources */,
+				09C7DEEEA92870195E2F8512 /* [CP] Embed Pods Frameworks */,
+				874639E2211F494E31C098B6 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -229,9 +343,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8198383E210865ED00D20CF4 /* images-2.png in Resources */,
+				814B17682105CA26004BD226 /* cristiano-ronaldo4.jpg in Resources */,
+				8198383C210854FD00D20CF4 /* wenger14nov14-536368.jpg in Resources */,
 				811E5A4D2105B4DC00BF4E1F /* LaunchScreen.storyboard in Resources */,
+				811E5A712105BF7300BF4E1F /* Visit-Aland-21.jpg in Resources */,
+				814B176F2105ED69004BD226 /* depositphotos_14367695-stock-photo-violet-blue-butterfly-isolated-on.jpg in Resources */,
+				814B177B21071A40004BD226 /* arrow-151103__340.png in Resources */,
+				8198384B210B202000D20CF4 /* QMOstte1Nn-10.png in Resources */,
 				811E5A4A2105B4DC00BF4E1F /* Assets.xcassets in Resources */,
+				8198383821084EBE00D20CF4 /* giphy9.gif in Resources */,
+				814B176A2105D6F7004BD226 /* 10-Strongest-Dabs-hero.jpg in Resources */,
 				811E5A482105B4DB00BF4E1F /* Main.storyboard in Resources */,
+				81983849210B1A4500D20CF4 /* 37394cfc2f3542cb59779d89c6ed75d4.png.jpg in Resources */,
+				819838472109C80B00D20CF4 /* ff40a667d68d2ab5d0b850eaa0664d82.jpg in Resources */,
+				814B176D2105EA05004BD226 /* 0dc72fa6cd9a3536f6042b0b3a46d536--phone-backgrounds-tumblr-wallpaper-iphone.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,13 +377,76 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		09C7DEEEA92870195E2F8512 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Aland/Pods-Aland-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/SwiftGifOrigin/SwiftGifOrigin.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftGifOrigin.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Aland/Pods-Aland-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		874639E2211F494E31C098B6 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Aland/Pods-Aland-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D3C46213772B615B1465BFF4 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Aland-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		811E5A3B2105B4DB00BF4E1F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				819838402108740A00D20CF4 /* FormViewController.swift in Sources */,
+				814B17772107091E004BD226 /* OlenaViewController.swift in Sources */,
+				814B177921071851004BD226 /* BenjamiViewController.swift in Sources */,
+				81983843210875B700D20CF4 /* FormModel.swift in Sources */,
+				8198383A21084F2D00D20CF4 /* MonsterLoginFile.swift in Sources */,
+				814B177521070626004BD226 /* WilliamViewController.swift in Sources */,
 				811E5A452105B4DB00BF4E1F /* ViewController.swift in Sources */,
 				811E5A432105B4DB00BF4E1F /* AppDelegate.swift in Sources */,
+				814B177D21071D1F004BD226 /* AlexanderViewController.swift in Sources */,
+				814B17712105F43D004BD226 /* AliceViewController.swift in Sources */,
+				81983845210879B500D20CF4 /* HelloViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -428,9 +617,11 @@
 		};
 		811E5A682105B4DC00BF4E1F /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = AB19C4A7D51680BF9D7903B3 /* Pods-Aland.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 449EKJAVRV;
 				INFOPLIST_FILE = Aland/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -445,9 +636,11 @@
 		};
 		811E5A692105B4DC00BF4E1F /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = F5798E34A5D85AD386FE29B9 /* Pods-Aland.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 449EKJAVRV;
 				INFOPLIST_FILE = Aland/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
